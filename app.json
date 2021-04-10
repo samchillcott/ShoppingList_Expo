@@ -1,0 +1,12 @@
+{
+  "name": "ShoppingList_Expo",
+  "displayName": "ShoppingList_Expo",
+  "expo": {
+    "name": "ShoppingList_Expo",
+    "slug": "ShoppingList_Expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
